@@ -1,0 +1,18 @@
+# 🧰 Dev Environment Setup & System Debloater for Debian-based Linux
+
+This repository includes two powerful shell scripts to help you clean up and prepare your development system on Debian-based distributions (like Ubuntu, Linux Mint, etc.):
+
+- `debloater.sh`: Removes unnecessary pre-installed apps and packages.
+- `install_dev_tools.sh`: Installs essential tools such as Git, VS Code, Node.js (via fnm), and Postman — while cleaning up any existing versions first.
+
+---
+
+## 🚀 How to Use
+
+### 1. Run the Debloater (Optional but Recommended)
+
+This step removes bloatware and unwanted software from your system before setting up your dev tools.
+
+```bash
+chmod +x debloater.sh
+sudo ./debloater.sh
