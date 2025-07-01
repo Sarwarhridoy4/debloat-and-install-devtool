@@ -2,7 +2,7 @@ Here’s a `README.md` you can include in your project directory. It explains ho
 
 ---
 
-````markdown
+
 # 🧰 Dev Environment Setup & System Debloater for Debian-based Linux
 
 This repository includes two powerful shell scripts to help you clean up and prepare your development system on Debian-based distributions (like Ubuntu, Linux Mint, etc.):
