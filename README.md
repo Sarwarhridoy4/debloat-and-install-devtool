@@ -18,7 +18,7 @@ chmod +x debloater.sh
 sudo ./debloater.sh
 ```
 
-````
+
 
 ⚠️ **Warning:** Review the script before running to make sure it won’t remove anything important to you.
 
