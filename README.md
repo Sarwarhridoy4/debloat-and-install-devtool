@@ -1,8 +1,3 @@
-Here’s a `README.md` you can include in your project directory. It explains how to use both your **Dev Tools Installer** and a **Debloater** script (assuming the debloater is a separate script you already have):
-
----
-
-
 # 🧰 Dev Environment Setup & System Debloater for Debian-based Linux
 
 This repository includes two powerful shell scripts to help you clean up and prepare your development system on Debian-based distributions (like Ubuntu, Linux Mint, etc.):
@@ -22,6 +17,7 @@ This step removes bloatware and unwanted software from your system before settin
 chmod +x debloater.sh
 sudo ./debloater.sh
 ```
+
 ````
 
 ⚠️ **Warning:** Review the script before running to make sure it won’t remove anything important to you.
@@ -96,3 +92,4 @@ Open an issue or contact the maintainer if you run into problems or want to sugg
 
 Happy Coding!
 
+````
